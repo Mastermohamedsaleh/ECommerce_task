@@ -10,7 +10,7 @@ A production-grade, highly scalable E-Commerce RESTful API built with **Laravel 
 | Dashboard Overview | Order & Payment Management |
 | :---: | :---: |
 | ![Chat Overview](/images/chat.png) | ![Orders Management](/images/orders.png) |
-  ![Categoris Management](/images/categoris.png)
+![Categoris Management](/images/categoris.png) | ![Product Management](/images/create_product.png)
 
 *(Note: Place your screenshots inside `docs/images/` directory with the names `dashboard.png` and `orders.png`)*
 
